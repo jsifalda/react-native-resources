@@ -27,6 +27,7 @@ A list of React Native components, libraries,  examples and videos.
 - [react-native-nested-stylesheets](https://github.com/pjjanak/react-native-nested-stylesheets) - _Nestable stylesheets for react-native._
 - [react-native-sqlite](https://github.com/almost/react-native-sqlite) - _SQLite3 bindings for React Native_
 - [react-native-store](https://github.com/thewei/react-native-store) - _A simple database base on react-native AsyncStorage._
+- [styled-react-native](http://npmjs.org/styled-react-native) - Advanced react native styling with simple method (style overwrites, component composition, enhanced style property). Full intro in [this Medium article](https://hackernoon.com/advanced-react-native-styling-with-a-few-lines-of-code-4b6a94385015).
 
 ### Examples
 - [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) - _Hacker News iOS App - Made with React Native._
